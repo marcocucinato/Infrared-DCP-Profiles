@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dcpData>
-  <ProfileName>Canon PowerShot S100 temp_tint_left</ProfileName>
+  <ProfileName>Canon PowerShot S100 temp_tint_left red/blue swap</ProfileName>
   <CalibrationIlluminant1>17</CalibrationIlluminant1>
   <CalibrationIlluminant2>21</CalibrationIlluminant2>
   <ColorMatrix1 Rows="3" Cols="3">
